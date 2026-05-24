@@ -12,8 +12,7 @@ A simple AI-powered Python code reviewer built using Gemini API.
 ## Tech Stack
 
 - Python 3.13
-- Gemini API
-- google-genai
+- Groq API
 - dotenv
 
 ## Installation
